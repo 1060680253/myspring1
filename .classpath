@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/spring.jar" sourcepath="D:/JavaWeb/51CTO下载-韩顺平2011版spring视频教程-ppt.笔记.软件包.源代码/韩顺平 2011版 spring视频教程 需要的开发软件包/spring-framework-2.5.5-with-dependencies.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
